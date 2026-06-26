@@ -12,3 +12,13 @@ The goal is to create an inexpensive, scalable LED display for testing VJ loops,
 | ESP32-S3 DevKitC-1 | 1 | [Amazon](https://a.co/d/0g2AB36V) |
 | HUB75 Adapter Board | 1 | [Amazon](https://a.co/d/09zQ7V8D) |
 | 5V 10A Power Supply | 1 | [Amazon](https://a.co/d/0fZgAnPE) |
+
+## Progress
+
+- [x] Order hardware
+- [x] Create GitHub repository
+- [ ] Assemble electronics
+- [ ] Drive first panel
+- [ ] Chain second panel
+- [ ] Build enclosure
+- [ ] Wireless streaming
